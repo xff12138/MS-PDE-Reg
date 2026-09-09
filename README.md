@@ -1,5 +1,5 @@
 # MS-PDE-Reg
-Official repository for "OTMorph: Unsupervised Multi-domain Abdominal Medical Image Registration Using Neural Optimal Transport"
+Official repository for "Medical Image Registration Based on Multi-Scale PDE-Constrained Optimization"
 
 
 
